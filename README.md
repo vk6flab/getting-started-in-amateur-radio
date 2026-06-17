@@ -36,7 +36,7 @@ determine if the information is still current or not.
 The ITU region and country structure, as well as the naming convention
 was extracted on 2026-06-17 from the list published here:
 * https://www.itu.int/gladapp/Administration/Members
-* [local .tsv copy](ITU.tsv)
+* [local .tsv copy](./resources/ITU.tsv)
 
 
 ## Credits
