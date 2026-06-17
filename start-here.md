@@ -10,10 +10,10 @@ ITU regions to find your country in the list.
 ![ITU regions](./resources/International_Telecommunication_Union_region.svg)
 
 The regions can be found here:
-* [Region 1](./Region 1) `#ffdd00` - Yellow
+* [Region 1](./Region%201/) `#ffdd00` - Yellow
   - Europe, Africa, the Commonwealth of Independent States, Mongolia, and the Middle East west of the Persian Gulf, including Iraq.
-* [Region 2](./Region 2) `#00ddff` - Blue
+* [Region 2](./Region%202/) `#00ddff` - Blue
   - the Americas including Greenland, and some of the eastern Pacific Islands.
-* [Region 3](./Region 3) `#dd00ff` - Pink
+* [Region 3](./Region%203/) `#dd00ff` - Pink
   - most of non-FSU Asia east of and including Iran, and most of Oceania.
 
