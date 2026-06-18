@@ -58,6 +58,13 @@ when a particular change occurred, so future visitors have a chance to
 determine if the information is still current or not.
 
 
+## Formatting
+
+The documents are written in simple markdown and contain as little formatting
+as possible. Lines are wrapped and lists are indented. Dates are formatted
+yyyy-mm-dd. Callsigns are in UPPERcase and acronyms are explained at least once
+on every page they appear.
+
 ## Sources
 
 The ITU region and country structure, as well as the naming convention
