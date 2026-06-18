@@ -5,7 +5,7 @@ Amateur radio is a vast playground using any excuse to get on air and have fun. 
 * Online receivers:
   - [WebSDR](http://websdr.org)
   - [KiwiSDR](http://rx.kiwisdr.com)
-  - [RTL-SDR](https://www.rtlsdr.com)
+  - [RTL-SDR](https://www.rtl-sdr.com)
 
 * Social media:
   - [Mastodon](https://mastodon.radio)
