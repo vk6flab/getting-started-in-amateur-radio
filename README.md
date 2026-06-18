@@ -127,4 +127,4 @@ resources](playground.md) to whet your appetite.
 * [Wikimedia Commons - International Telecommunication Union regions with dividing lines](https://commons.wikimedia.org/wiki/File:International_Telecommunication_Union_regions_with_dividing_lines.svg)
 * [Coloured Squares](https://tinysquare.page/)
 * [Foundations of Amateur Radio - Episode 073 - Where do you start with this Amateur thing?](https://podcasts.itmaze.com.au/foundations/20161030.foundations-of-amateur-radio.txt), used and edited with permission.
-* [About](README.md) this resource.
+* [About](about.md) this resource.
