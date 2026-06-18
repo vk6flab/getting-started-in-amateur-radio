@@ -96,6 +96,13 @@ The steps:
 3. Continue your life-long journey.
 
 
+# Playground
+
+Amateur radio is a playground for exploration and adventure. To get
+you started and begin to explore the landscape here is a [list of
+resources](playground.md) to whet your appetite.
+
+
 # Specifics for your country
 
 Amateur radio is regulated, in that you need a license to operate. This
@@ -109,7 +116,7 @@ ITU regions to find your country in the list.
 
 ![International Telecommunication Union regions with dividing lines](./resources/International_Telecommunication_Union_region.svg)
 
-The regions can be found here:
+The regions and a folder for each country can be found here:
 * ![Yellow](./resources/yellow.png) [Region 1](./Region%201/)
   - Europe, Africa, the Commonwealth of Independent States, Mongolia, and the Middle East west of the Persian Gulf, including Iraq.
 * ![Blue](./resources/blue.png) [Region 2](./Region%202/)
@@ -117,14 +124,68 @@ The regions can be found here:
 * ![Pink](./resources/pink.png) [Region 3](./Region%203/)
   - most of non-FSU Asia east of and including Iran, and most of Oceania.
 
-# Playground
-Amateur radio is a playground for exploration and adventure. To get
-you started and begin to explore the landscape here is a [list of
-resources](playground.md) to whet your appetite.
+# The Official ITU region definitions
 
+## ITU Region 1
+* Region 1 comprises Europe, Africa, the Commonwealth of Independent
+  States, Mongolia, and the Middle East west of the Persian Gulf,
+  including Iraq.
+
+* The western boundary is defined by Line B and the eastern boundary is
+  defined by Line A, except that all territory of Iran is excluded, and
+  all territory of Armenia, Azerbaijan, Georgia, Kazakhstan, Mongolia,
+  Uzbekistan, Kyrgyzstan, Russia, Tajikistan, Turkmenistan, Turkey and
+  Ukraine and the area to the north of Russia which lies between lines A
+  and C is included.
+
+## ITU Region 2
+* Region 2 covers the Americas including Greenland, and some of the
+  eastern Pacific Islands.
+
+* The eastern boundary is defined by Line B and the western boundary is
+  defined by Line C.
+
+## ITU Region 3
+* Region 3 contains most of non-FSU Asia east of and including Iran,
+  and most of Oceania.
+
+* The western boundary is defined by Line A and the eastern boundary is
+  defined by Line C.
+
+## Line A
+* Line A is a line running from the North Pole along meridian 40° East
+  of Greenwich to parallel 40° North; thence by great circle arc to the
+  intersection of meridian 60° East and the Tropic of Cancer; thence
+  along the meridian 60° East to the South Pole.
+
+## Line B
+* Line B is a line running from the North Pole along meridian 10° West
+  of Greenwich to its intersection with parallel 72° North; thence by
+  great circle arc to the intersection of meridian 50° West and parallel
+  40° North; thence by great circle arc to the intersection of meridian
+  20° West and parallel 10° South; thence along meridian 20° West to
+  the South Pole.
+
+## Line C
+* Line C is a line running from the North Pole by great circle arc to the
+  intersection of parallel 65° 30` North with the international boundary
+  in the Bering Strait; thence by great circle arc to the intersection
+  of meridian 165° East of Greenwich and parallel 50° North; thence by
+  great circle arc to the intersection of meridian 170° West and parallel
+  10° North; thence along parallel 10° North to its intersection with
+  meridian 120° West; thence along meridian 120° West to the South Pole.
+
+# IARU
+The International Amateur Radio Union (IARU) represents the hobby at the ITU.
+
+* [International Secretariat](https://www.iaru.org/)
+* [IARU Region 1](http://www.iaru-r1.org/) - Africa, Europe, Middle East, and northern Asia
+* [IARU Region 2](http://www.iaru-r2.org/) - the Americas
+* [IARU Region 3](http://www.iaru-r3.org/) - the rest of Asia and the Pacific
 
 # Credits
 * [Wikimedia Commons - International Telecommunication Union regions with dividing lines](https://commons.wikimedia.org/wiki/File:International_Telecommunication_Union_regions_with_dividing_lines.svg)
+* [ITU Region Definition](https://en.wikipedia.org/wiki/ITU_Region)
 * [Coloured Squares](https://tinysquare.page/)
 * [Foundations of Amateur Radio - Episode 073 - Where do you start with this Amateur thing?](https://podcasts.itmaze.com.au/foundations/20161030.foundations-of-amateur-radio.txt), used and edited with permission.
 * [About](about.md) this resource.
