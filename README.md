@@ -137,4 +137,7 @@ The International Amateur Radio Union (IARU) represents the hobby at the ITU.
 * [ITU Region Definition](https://en.wikipedia.org/wiki/ITU_Region)
 * [Coloured Squares](https://tinysquare.page/)
 * [Foundations of Amateur Radio - Episode 073 - Where do you start with this Amateur thing?](https://podcasts.itmaze.com.au/foundations/20161030.foundations-of-amateur-radio.txt), used and edited with permission.
-* [About](about.md) this resource.
+* [About](about.md) this resource and how to contribute.
+
+# Author(s)
+- [Onno VK6FLAB](https://vk6flab.com/)
