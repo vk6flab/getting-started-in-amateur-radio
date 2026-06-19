@@ -40,3 +40,10 @@ This list gives you somewhere to start on your journey.
 * Activities:
 
   - [Activations on Air](https://github.com/vk6flab/activations-on-the-air)
+
+
+* More resources:
+
+  - [Wikipedia](https://en.wikipedia.org/wiki/Category:Amateur_radio) - the
+    amateur radio category contains hundreds of pages about the hobby across the
+    world.
