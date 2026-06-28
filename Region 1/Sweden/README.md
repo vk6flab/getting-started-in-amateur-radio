@@ -3,10 +3,15 @@
 The official ham radio world in Sweden could be considered on two
 levels, the national level and the local level.
 
-The national level, is the authorities "Post och Telestyrelsen"
-([PTS](https://pts.se)) and the national ham radio operators
-association "Föreningen Sveriges Sändareamatörer"
-([SSA](https://ssa.se)).
+The national level has the "Post och Telestyrelsen" ([PTS](https://pts.se))
+that is the public authority in this area.
+Then there is the national ham radio operators association
+"Föreningen Sveriges Sändareamatörer" ([SSA](https://ssa.se)) that is
+a non-profit association. See the page about SSA [reference 4](#references).
+
+The SSA is entrusted by the PTS to handle administrative tasks related
+to amateur radio, tasks that could be considered the responsibility of
+a government agency.
 
 The local level is clubs in many towns throughout Sweden, loosely kept
 together with a set of district leaders appointed in the national
@@ -56,10 +61,12 @@ new callsign SAnAAA automatically.
 
 SSA also issue vanity call-signs for many different events and contest
 operations. Such call-signs can have any of the prefixes SA, SB, SC,
-SD, SE, SF, SG, SH, SI, SJ, SK, SL, SM, 7S, or 8S, and then any number
+SD, SE, SF, SG, SH, SI, SJ, SK, SM, 7S, or 8S, and then any number
 of digits, and any number of letters in the suffix except for
 callsigns except for callsigns that would be possible to
-confuse. There might be a maximum length but I don't know what it is.
+confuse. This is subject to the rules in article 19 in ITU RR
+[reference 3.](#references)
+For details see [reference 1. and reference 2](#references).
 
 # Local Clubs
 
@@ -91,3 +98,21 @@ acknowledge and points are issued.
 This stimulates activities in the great swedish outdoors where thanks
 to Allemansrätten, the whole of nature is available to everyone
 without prior consent from the land-owner.
+
+
+# References
+
+1. [Extra anropssignaler](https://www.ssa.se/ssa/extrasignaler/)
+   (in Swedish)
+   contains rules on how to apply for extra callsigns and
+   information on what callsigns that are available.
+
+2. [Bilaga C: PTS anvisningar om tilldelning av anropssignaler för
+   amatörradio](https://www.ssa.se/wp-content/uploads/2026/04/Bilaga-C.pdf)
+   (in Swedish) updated 2026.
+   Re-published by SSA.
+
+3. Internationella teleunionens radioreglemente (ITU RR)
+   Can be found at the [ITU Radio Regulations web site](https://www.itu.int/pub/r-reg-rr)
+
+4. [Om SSA](https://www.ssa.se/ssa/om-ssa/) (in Swedish)
